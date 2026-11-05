@@ -1,4 +1,4 @@
-# Ben H <DogmaTheDev>
+<img src="assets/intro-banner.png" alt="Ben H, DogmaTheDev. Founder, Dogma Labs. dogmalabs.tech. Bristol, Tennessee." width="100%">
 
 **Founder, Dogma Labs | Web Developer & Software Engineer**
 
