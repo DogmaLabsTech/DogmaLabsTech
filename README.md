@@ -35,7 +35,6 @@ Dogma Labs: [dogmalabs.tech](https://www.dogmalabs.tech)
 </tr>
 </table>
 
-- **Lego-Engine**
 
 ## Stack
 
