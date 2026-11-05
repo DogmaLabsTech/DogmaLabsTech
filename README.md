@@ -1,4 +1,4 @@
-# Benito Hernandez
+# Ben H <DogmaTheDev>
 
 **Founder, Dogma Labs | Web Developer & Software Engineer**
 
