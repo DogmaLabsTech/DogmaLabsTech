@@ -21,10 +21,20 @@ Dogma Labs: [dogmalabs.tech](https://www.dogmalabs.tech)
 <br>Your notes and AI chats, in one searchable brain that stays on your computer.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/kitchen-compass-card.jpg" alt="Kitchen Compass: a giant golden compass and a steaming green pot rising from a harvest at sunset. An AI kitchen co-pilot for your whole household." width="100%">
+<br><b>kitchen-compass</b>
+<br>An AI kitchen co-pilot for your whole household.
+</td>
+<td width="50%" valign="top">
+<img src="assets/flight-tracker-card.jpg" alt="Flight Tracker: an airliner climbing over glowing storm clouds beside a rising green price line. Turns noisy flight prices into one call: buy or wait." width="100%">
+<br><b>flight-tracker</b>
+<br>Turns noisy flight prices into one call: buy or wait.
+</td>
+</tr>
 </table>
 
-- **kitchen-compass** - Kitchen planning, same data different lens (monorepo).
-- **tavernlight** - AI Game Master party RPG (Expo + Supabase + Anthropic).
 - **Lego-Engine**
 
 ## Stack
