@@ -8,10 +8,24 @@ Dogma Labs: [dogmalabs.tech](https://www.dogmalabs.tech)
 
 ## Featured projects
 
-- [kitchen-compass](https://github.com/DogmaLabsTech/kitchen-compass) - Kitchen planning, same data different lens (monorepo).
-- [tavernlight](https://github.com/DogmaLabsTech/tavernlight) - AI Game Master party RPG (Expo + Supabase + Anthropic).
-- [fleet](https://github.com/DogmaLabsTech/fleet) - Supervise every running Claude Code session with honest progress rings. 100% local, zero egress.
-- [Lego-Engine](https://github.com/DogmaLabsTech/Lego-Engine)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DogmaLabsTech/agent-os"><img src="assets/agent-os-card.png" alt="agent-os: your AI team, at a desk you can see. A pixel-art office of robot helpers." width="100%"></a>
+<br><b><a href="https://github.com/DogmaLabsTech/agent-os">agent-os</a></b>
+<br>An office of AI helpers. You talk, they do the work, you decide.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/DogmaLabsTech/second-brain"><img src="assets/second-brain-card.png" alt="Second Brain: a glowing holographic brain. Your notes and AI chats, in one searchable memory on your computer." width="100%"></a>
+<br><b><a href="https://github.com/DogmaLabsTech/second-brain">second-brain</a></b>
+<br>Your notes and AI chats, in one searchable brain that stays on your computer.
+</td>
+</tr>
+</table>
+
+- **kitchen-compass** - Kitchen planning, same data different lens (monorepo).
+- **tavernlight** - AI Game Master party RPG (Expo + Supabase + Anthropic).
+- **Lego-Engine**
 
 ## Stack
 
