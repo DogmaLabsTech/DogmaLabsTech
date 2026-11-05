@@ -38,4 +38,4 @@ Dogma Labs: [dogmalabs.tech](https://www.dogmalabs.tech)
 
 ## Stack
 
-TypeScript · Python · Astro · Expo · Supabase
+<img src="assets/stack-banner.png" alt="TypeScript, Python, Astro, Expo, Supabase" width="100%">
